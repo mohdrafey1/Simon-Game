@@ -16,7 +16,7 @@ Simon Game is a classic memory game where players have to remember and repeat a 
 - Local storage for saving high scores
 
 ## Getting Started
-To play the Simon Game, simply open the `index.html` file in your preferred web browser. Alternatively, you can access the game through a live deployment [here](), if available.
+To play the Simon Game, simply open the `index.html` file in your preferred web browser. Alternatively, you can access the game through a live deployment [here](https://mohdrafey1.github.io/Simon-Game/), if available.
 
 ## How to Play
 1. Click on the "Start" button to begin the game.
